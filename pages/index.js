@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>Tabnews clone Home page</h1>;
+  return (
+    <main>
+      <h1>TabNews Homepage</h1>
+    </main>
+  );
 }
 
 export default Home;
